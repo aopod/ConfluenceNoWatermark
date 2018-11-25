@@ -6,6 +6,7 @@
 // @description  Remove watermarks on Confluence Wiki
 // @author       aopod
 // @match        *REPLACE MACH HERE*
+// @updateURL    https://github.com/aopod/ConfluenceNoWatermark/raw/master/ConfluenceNoWatermark.user.js
 // @grant        none
 // ==/UserScript==
 
